@@ -1,4 +1,5 @@
-// Smooth scrolling for nav icons
+// You can add advanced features later
+console.log("Cottagecore site loaded 🌾✨");// Smooth scrolling for nav icons
 document.querySelectorAll('.nav-icon').forEach(icon => {
     icon.addEventListener('click', (e) => {
         e.preventDefault();
